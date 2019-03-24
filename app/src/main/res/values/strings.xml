@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UI测试</string>
+    <string name="animal_Lion">Lion</string>
+    <string name="animal_Tiger">Tiger</string>
+    <string name="animal_Monkey">Monkey</string>
+    <string name="animal_Dog">Dog</string>
+    <string name="animal_Cat">Cat</string>
+    <string name="animal_Elephant">Elephant</string>
+    <string name="login">Android APP</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="font_size">字体大小</string>
+    <string name="normal">普通菜单项</string>
+    <string name="font_color">字体颜色</string>
+</resources>

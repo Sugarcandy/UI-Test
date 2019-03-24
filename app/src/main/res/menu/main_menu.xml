@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item android:id="@+id/fontsize"
+        android:title="@string/font_size">
+    <menu>
+      <item android:id="@+id/big"
+          android:title="大" />
+      <item android:id="@+id/middle"
+          android:title="中"/>
+      <item android:id="@+id/small"
+          android:title="小"/>
+    </menu>
+  </item>
+  <item android:id="@+id/normal"
+      android:title="@string/normal">
+  </item>
+  <item android:id="@+id/fontcolor"
+      android:title="@string/font_color">
+    <menu>
+      <item android:id="@+id/red"
+          android:title="红色"/>
+      <item android:id="@+id/black"
+          android:title="黑色"/>
+    </menu>
+  </item>
+</menu>
